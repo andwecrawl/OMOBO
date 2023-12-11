@@ -1,4 +1,4 @@
-# TMDB
+# OMOBO
 <br>
 
 ## 앱 소개
