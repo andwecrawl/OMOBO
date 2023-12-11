@@ -1,5 +1,7 @@
 # OMOBO
-<br>
+![image](https://github.com/andwecrawl/OMOBO/assets/120160532/742f2ee9-7ae1-4323-b30a-fc9618a990d2)
+<br><br>
+
 
 ## 앱 소개
 현재 인기 있는 영화나 프로그램을 소개해 주거나 좋아하는 영화를 검색시 관련 영화를 제공해 주며 현재 위치에 따라 주변 영화관의 위치를 알려주는 앱
